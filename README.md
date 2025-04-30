@@ -1,2 +1,2 @@
-# FakeNewsDetection_NLP
-Fake News Detection using Semantic Processing and NLP techniques with Classifications
+# Fake News Detection - NLP Assignment
+Fake News Detection using Semantic Processing and NLP techniques with Classification models
